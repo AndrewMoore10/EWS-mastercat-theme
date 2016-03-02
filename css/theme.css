@@ -8731,7 +8731,7 @@ div.dt-footer {
   background: url('../img/logo-large.png') no-repeat center #336699;
 }
 #logo::before {
- content: "MasterCat";
+ content: "";
  font-size: 18pt;
  position: absolute;
  top: 0px;
@@ -10343,7 +10343,7 @@ table.details .dropDownWrapper {
 .dt-table td{
 }
 
-.dt-table td:nth-of-type(11) {
+.dt-table td:nth-of-type(7) {
   display: block;
   white-space: nowrap;
   overflow: hidden;
